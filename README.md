@@ -1,6 +1,6 @@
 # Db2 JSON Features
 
-This repository contains examples of new functionality found in Db2 11.5. In order to use these examples you must have:
+This repository contains examples of new JSON functionality found in Db2 11.1/11.5. In order to use these examples you must have:
 * Db2 installed locally or on the cloud
 * Jupyter Notebooks 
 * Db2 Python driver
