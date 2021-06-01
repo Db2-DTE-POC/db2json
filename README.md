@@ -8,4 +8,4 @@ This repository contains examples of new JSON functionality found in Db2 11.1/11
 
 The Db2 Jupyter Extensions are already found in this repository and are used by the labs.
 
-#### Credits: IBM 2019, George Baklarz [baklarz@ca.ibm.com]
+#### Credits: IBM 2021, George Baklarz [baklarz@ca.ibm.com]
